@@ -1,4 +1,4 @@
-#Dynamic Data Visualization Tool
+##Dynamic Data Visualization Tool
 A versatile Python script that enables users to load a dataset, select columns, and create a variety of visualizations interactively. The tool supports multiple chart types and allows flexible column selection.
 
 #📋 Project Overview

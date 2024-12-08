@@ -1,7 +1,9 @@
-##Dynamic Data Visualization Tool
+#Dynamic Data Visualization Tool #
+
 A versatile Python script that enables users to load a dataset, select columns, and create a variety of visualizations interactively. The tool supports multiple chart types and allows flexible column selection.
 
 #📋 Project Overview
+
 This project simplifies the process of data exploration and visualization:
 
 Automatically adjusts for column data types.
@@ -9,6 +11,7 @@ Enables users to interactively choose the dataset and columns.
 Offers a wide array of visualization options to analyze relationships and distributions effectively.
 
 #🚀 Features
+
 Dataset Loading:
 Supports CSV files as input.
 Automatically converts columns to appropriate data types (string or integer).
@@ -33,6 +36,7 @@ Automatically adjusts figure size.
 Handles rotation of axis labels for better readability.
 
 #🛠️ Technologies Used
+
 Python: Programming language.
 Pandas: For data manipulation and preprocessing.
 Matplotlib: For static visualizations.

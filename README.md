@@ -21,16 +21,27 @@ Allows users to specify columns for visualization based on type constraints.
 
 Visualization Options:
 
+
 Bar Graph
+
 Count Plot
+
 Pie Chart
+
 Heatmap
+
 Scatter Plot
+
 Line Plot
+
 Histogram
+
 Box Plot
+
 Distribution Plot
+
 Customization:
+
 
 Automatically adjusts figure size.
 Handles rotation of axis labels for better readability.
